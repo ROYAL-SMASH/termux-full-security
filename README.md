@@ -5,7 +5,8 @@ just run  this commands
 1. apt update
 2. apt upgrade
 3. pkg install git
-4. git clone https://github.com/Udoy2/termux-login.git
+4. git clone https://github.com/royal-smash/termux-full-security
+
 5.  chmod +x setup
 6.  bash setup
 
