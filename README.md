@@ -1,0 +1,1 @@
+# termux-full-security
